@@ -1,9 +1,13 @@
-### 📊 GitHub Stats
+### 🚀 Featured Projects
 
-![Steve's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Steven-LG09&show_icons=true&theme=tokyonight)
+[![ProtoDome](https://github-readme-stats.vercel.app/api/pin/?username=Steven-LG09&repo=ProtoDome&theme=tokyonight)](https://github.com/Steven-LG09/ProtoDome)
+[![Api2](https://github-readme-stats.vercel.app/api/pin/?username=Steven-LG09&repo=Api2&theme=tokyonight)](https://github.com/Steven-LG09/Api2)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Steven-LG09&layout=compact&theme=tokyonight)
+[![soku](https://github-readme-stats.vercel.app/api/pin/?username=Steven-LG09&repo=soku&theme=tokyonight)](https://github.com/Steven-LG09/soku)
+[![webApp](https://github-readme-stats.vercel.app/api/pin/?username=Steven-LG09&repo=webApp&theme=tokyonight)](https://github.com/Steven-LG09/webApp)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Steven-LG09&theme=tokyonight)
+[![Navigation-React-Native](https://github-readme-stats.vercel.app/api/pin/?username=Steven-LG09&repo=Navigation-React-Native&theme=tokyonight)](https://github.com/Steven-LG09/Navigation-React-Native)
+[![LELEDLEC](https://github-readme-stats.vercel.app/api/pin/?username=Steven-LG09&repo=LELEDLEC&theme=tokyonight)](https://github.com/Steven-LG09/LELEDLEC)
+
 
 
