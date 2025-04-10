@@ -101,6 +101,17 @@
 
 </div>
 
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+<br>
+
+![Local Time](https://readme-time.vercel.app/api?timezone=America/Bogota)
+
+<br>
+
+[![Spotify](https://novatorem-username.vercel.app/api/spotify)](https://open.spotify.com/user/Stevelogi)
+
+
 
 
 
