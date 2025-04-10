@@ -62,6 +62,16 @@
     </td>
   </tr>
 </table>
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Steven-LG09&show_icons=true&theme=holi" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Steven-LG09&layout=compact&theme=holi" />
+
+</div>
+
 
 
 
