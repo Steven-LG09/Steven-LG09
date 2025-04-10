@@ -72,7 +72,9 @@
 
 <!-- Most Used Languages -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Steven-LG09&layout=compact&theme=github_dark" />
+</div>
 <br>
+
 <div align="center">
 
 <img src="https://streak-stats.demolab.com/?user=Steven-LG09&theme=github-dark&hide_border=false" />
@@ -80,10 +82,8 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Steven-LG09&theme=github-compact" />
 
 </div>
-<!-- Trophies -->
+<br>
 <img src="https://github-profile-trophy.vercel.app/?username=Steven-LG09&theme=github&no-frame=true&no-bg=true&margin-w=15" />
-
-</div>
 
 ### 🧠 Languages & Technologies I Use
 
