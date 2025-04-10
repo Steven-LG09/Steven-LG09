@@ -72,19 +72,34 @@
 
 <!-- Most Used Languages -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Steven-LG09&layout=compact&theme=github_dark" />
-
+<br>
 <div align="center">
 
 <img src="https://streak-stats.demolab.com/?user=Steven-LG09&theme=github-dark&hide_border=false" />
+<br>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Steven-LG09&theme=github-compact" />
 
 </div>
-
-
 <!-- Trophies -->
 <img src="https://github-profile-trophy.vercel.app/?username=Steven-LG09&theme=github&no-frame=true&no-bg=true&margin-w=15" />
 
 </div>
+
+### 🧠 Languages & Technologies I Use
+
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+
+</div>
+
 
 
 
