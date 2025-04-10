@@ -16,12 +16,12 @@
   <tr>
     <td>
       <a href="https://github.com/Steven-LG09/Api2">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Steven-LG09&repo=Api2&theme=chartreuse-dark" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Steven-LG09&repo=Api2&theme=merko" />
       </a>
     </td>
     <td>
       <a href="https://github.com/Steven-LG09/soku">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Steven-LG09&repo=soku&theme=merko" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Steven-LG09&repo=soku&theme=chartreuse-dark" />
       </a>
     </td>
   </tr>
@@ -40,12 +40,12 @@
   <tr>
     <td>
       <a href="https://github.com/Steven-LG09/LELEDLEC">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Steven-LG09&repo=LELEDLEC&theme=chartreuse-dark" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Steven-LG09&repo=LELEDLEC&theme=merko" />
       </a>
     </td>
     <td>
       <a href="https://github.com/Steven-LG09/News">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Steven-LG09&repo=News&theme=merko" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Steven-LG09&repo=News&theme=chartreuse-dark" />
       </a>
     </td>
   </tr>
