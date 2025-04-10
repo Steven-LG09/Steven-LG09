@@ -4,7 +4,7 @@
   <tr>
     <td>
       <a href="https://github.com/Steven-LG09/ProtoDome">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Steven-LG09&repo=ProtoDome&theme=radical" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Steven-LG09&repo=ProtoDome&theme=chartreuse-dark" />
       </a>
     </td>
     <td>
