@@ -4,7 +4,7 @@
   <tr>
     <td>
       <a href="https://github.com/Steven-LG09/ProtoDome">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Steven-LG09&repo=ProtoDome&theme=radical" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Steven-LG09&repo=ProtoDome&theme=chartreuse-dark" />
       </a>
     </td>
     <td>
@@ -16,48 +16,48 @@
   <tr>
     <td>
       <a href="https://github.com/Steven-LG09/Api2">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Steven-LG09&repo=Api2&theme=yeblu" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Steven-LG09&repo=Api2&theme=chartreuse-dark" />
       </a>
     </td>
     <td>
       <a href="https://github.com/Steven-LG09/soku">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Steven-LG09&repo=soku&theme=yeblu" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Steven-LG09&repo=soku&theme=merko" />
       </a>
     </td>
   </tr>
   <tr>
     <td>
       <a href="https://github.com/Steven-LG09/webApp">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Steven-LG09&repo=webApp&theme=yeblu" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Steven-LG09&repo=webApp&theme=chartreuse-dark" />
       </a>
     </td>
     <td>
       <a href="https://github.com/Steven-LG09/Navigation-React-Native">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Steven-LG09&repo=Navigation-React-Native&theme=yeblu" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Steven-LG09&repo=Navigation-React-Native&theme=merko" />
       </a>
     </td>
   </tr>
   <tr>
     <td>
       <a href="https://github.com/Steven-LG09/LELEDLEC">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Steven-LG09&repo=LELEDLEC&theme=yeblu" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Steven-LG09&repo=LELEDLEC&theme=chartreuse-dark" />
       </a>
     </td>
     <td>
       <a href="https://github.com/Steven-LG09/News">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Steven-LG09&repo=News&theme=yeblu" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Steven-LG09&repo=News&theme=merko" />
       </a>
     </td>
   </tr>
   <tr>
     <td>
       <a href="https://github.com/Steven-LG09/Portfolio">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Steven-LG09&repo=Portfolio&theme=yeblu" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Steven-LG09&repo=Portfolio&theme=chartreuse-dark" />
       </a>
     </td>
     <td>
       <a href="https://github.com/Steven-LG09/Components-Use-React-Native">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Steven-LG09&repo=Components-Use-React-Native&theme=yeblu" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Steven-LG09&repo=Components-Use-React-Native&theme=merko" />
       </a>
     </td>
   </tr>
