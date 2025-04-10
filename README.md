@@ -67,17 +67,23 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Steven-LG09&show_icons=true&theme=holi" />
+<!-- General Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=Steven-LG09&show_icons=true&theme=github_dark" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Steven-LG09&layout=compact&theme=holi" />
+<!-- Most Used Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Steven-LG09&layout=compact&theme=github_dark" />
+
+<!-- Streaks -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Steven-LG09&theme=github-dark&hide_border=false" />
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=Steven-LG09&theme=github-compact" />
+
+<!-- Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=Steven-LG09&theme=github&no-frame=true&no-bg=true&margin-w=15" />
 
 </div>
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Steven-LG09&theme=holi&hide_border=false" />
-
-</div>
 
 
 
