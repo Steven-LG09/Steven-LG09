@@ -68,10 +68,10 @@
 <div align="center">
 
 <!-- General Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=Steven-LG09&show_icons=true&theme=github_dark" />
+<img src="https://github-readme-stats.vercel.app/api?username=Steven-LG09&show_icons=true&theme=chartreuse-dark" />
 
 <!-- Most Used Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Steven-LG09&layout=compact&theme=github_dark" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Steven-LG09&layout=compact&theme=chartreuse-dark" />
 </div>
 <br>
 
