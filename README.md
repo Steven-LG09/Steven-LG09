@@ -1,6 +1,6 @@
 ### 🚀 Featured Projects
 
-[![ProtoDome](https://github-readme-stats.vercel.app/api/pin/?username=Steven-LG09&repo=ProtoDome&theme=github_dark)](https://github.com/Steven-LG09/ProtoDome)
+[![ProtoDome](https://github-readme-stats.vercel.app/api/pin/?username=Steven-LG09&repo=ProtoDome&theme=ambient_gradient)](https://github.com/Steven-LG09/ProtoDome)
 
 [![Api](https://github-readme-stats.vercel.app/api/pin/?username=Steven-LG09&repo=Api&theme=github_dark)](https://github.com/Steven-LG09/Api)
 
