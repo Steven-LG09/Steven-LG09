@@ -16,12 +16,12 @@
   <tr>
     <td>
       <a href="https://github.com/Steven-LG09/Api2">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Steven-LG09&repo=Api2&theme=github_dark" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Steven-LG09&repo=Api2&theme=yeblu" />
       </a>
     </td>
     <td>
       <a href="https://github.com/Steven-LG09/soku">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Steven-LG09&repo=soku&theme=github_dark" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Steven-LG09&repo=soku&theme=yeblu" />
       </a>
     </td>
   </tr>
