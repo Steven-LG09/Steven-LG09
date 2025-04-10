@@ -99,17 +99,15 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="150" height="150"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="150" height="150"/>
 
-</div>
+</div><br>
+
+<div align="center">
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-<br>
+</div>
 
-![Local Time](https://readme-time.vercel.app/api?timezone=America/Bogota)
 
-<br>
-
-[![Spotify](https://novatorem-username.vercel.app/api/spotify)](https://open.spotify.com/user/Stevelogi)
 
 
 
