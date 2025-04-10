@@ -4,12 +4,12 @@
   <tr>
     <td>
       <a href="https://github.com/Steven-LG09/ProtoDome">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Steven-LG09&repo=ProtoDome&theme=github_dark" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Steven-LG09&repo=ProtoDome&theme=catppuccin_latte" />
       </a>
     </td>
     <td>
       <a href="https://github.com/Steven-LG09/Api">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Steven-LG09&repo=Api&theme=github_dark" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Steven-LG09&repo=Api&theme=catppuccin_latte" />
       </a>
     </td>
   </tr>
