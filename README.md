@@ -101,7 +101,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="150" height="150"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="150" height="150"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="150" height="150"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Google_Maps_Logo_2020.svg" width="150" height="150"/>
+<img src="https://www.svgrepo.com/show/426254/map-location.svg" width="150" height="150"/>
 
 </div><br>
 
