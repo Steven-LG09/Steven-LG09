@@ -56,7 +56,7 @@
       </a>
     </td>
     <td>
-      <a href="https://github.com/Steven-LG09/Components-Use-React-Native">
+      <a href="https://github.com/Steven-LG09/Proximity-Glasses">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Steven-LG09&repo=Proximity-Glasses&theme=merko" />
       </a>
     </td>
