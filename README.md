@@ -32,8 +32,8 @@
       </a>
     </td>
     <td>
-      <a href="https://github.com/Steven-LG09/Navigation-React-Native">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Steven-LG09&repo=Navigation-React-Native&theme=merko" />
+      <a href="https://github.com/Steven-LG09/Dados">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Steven-LG09&repo=DaDos&theme=merko" />
       </a>
     </td>
   </tr>
@@ -100,6 +100,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="150" height="150"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="150" height="150"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="150" height="150"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="150" height="150"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Google_Maps_Logo_2020.svg" width="150" height="150"/>
 
 </div><br>
 
