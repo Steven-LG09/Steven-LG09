@@ -101,8 +101,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="150" height="150"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="150" height="150"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="150" height="150"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Map_icon.svg/2048px-Map_icon.svg.png" width="150" height="150" />
-
 
 </div><br>
 
