@@ -8,8 +8,8 @@
       </a>
     </td>
     <td>
-      <a href="https://github.com/Steven-LG09/Api">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Steven-LG09&repo=Api&theme=merko" />
+      <a href="https://github.com/Steven-LG09/Megaruta">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Steven-LG09&repo=MegaRuta&theme=merko" />
       </a>
     </td>
   </tr>
@@ -101,6 +101,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="150" height="150"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="150" height="150"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="150" height="150"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/render/render-original.svg" width="150" height="150"/>
+<img src="https://cdn.worldvectorlogo.com/logos/netlify.svg" width="150" height="150"/>
+<img src="https://avatars.githubusercontent.com/u/62234664?s=200&v=4" width="150" height="150"/>
 
 </div><br>
 
