@@ -101,7 +101,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="150" height="150"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="150" height="150"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="150" height="150"/>
-<img src="https://seeklogo.com/images/R/render-logo-2F2EAAE16E-seeklogo.com.png" width="150" height="150"/>
+<img src="https://render.com/images/render-icon.png" width="150" height="150" alt="Render Icon"/>
 <img src="https://cdn.worldvectorlogo.com/logos/netlify.svg" width="150" height="150"/>
 <img src="https://avatars.githubusercontent.com/u/62234664?s=200&v=4" width="150" height="150"/>
 
