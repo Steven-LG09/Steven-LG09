@@ -101,7 +101,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="150" height="150"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="150" height="150"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="150" height="150"/>
-<img src="https://www.svgrepo.com/show/499539/location-pin.svg" width="150" height="150"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leaflet/leaflet-original.svg" width="150" height="150"/>
+
 
 </div><br>
 
