@@ -57,7 +57,7 @@
     </td>
     <td>
       <a href="https://github.com/Steven-LG09/Components-Use-React-Native">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Steven-LG09&repo=Components-Use-React-Native&theme=merko" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Steven-LG09&repo=Proximity-Glasses&theme=merko" />
       </a>
     </td>
   </tr>
@@ -98,6 +98,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="150" height="150"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="150" height="150"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="150" height="150"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="150" height="150"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="150" height="150"/>
 
 </div><br>
 
