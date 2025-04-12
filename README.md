@@ -101,7 +101,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="150" height="150"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="150" height="150"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="150" height="150"/>
-<img src="path-to-your-hosted-render-logo.png" width="150" height="150" alt="Render Logo" />
+<img src="[path-to-your-hosted-render-logo.png](https://media.licdn.com/dms/image/v2/D4E0BAQGGDoFoqHtOvA/company-logo_200_200/company-logo_200_200/0/1702595267620/renderco_logo?e=2147483647&v=beta&t=ZYrxKUyruOEupgw5Lr5amgwgBCJq8VXH8r05Qr5CeQc)" width="150" height="150" alt="Render Logo" />
 <img src="https://cdn.worldvectorlogo.com/logos/netlify.svg" width="150" height="150"/>
 <img src="https://avatars.githubusercontent.com/u/62234664?s=200&v=4" width="150" height="150"/>
 
