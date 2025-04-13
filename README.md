@@ -44,8 +44,8 @@
       </a>
     </td>
     <td>
-      <a href="https://github.com/Steven-LG09/News">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Steven-LG09&repo=News&theme=chartreuse-dark" />
+      <a href="https://github.com/Steven-LG09/Tolly">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Steven-LG09&repo=Tolly&theme=chartreuse-dark" />
       </a>
     </td>
   </tr>
@@ -104,6 +104,7 @@
 <img src="https://pbs.twimg.com/profile_images/1735429515541938176/zOO1N7Su_400x400.jpg" width="150" height="150" alt="Render Logo" />
 <img src="https://cdn.worldvectorlogo.com/logos/netlify.svg" width="150" height="150"/>
 <img src="https://avatars.githubusercontent.com/u/62234664?s=200&v=4" width="150" height="150"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="150" height="150"/>
 
 </div><br>
 
