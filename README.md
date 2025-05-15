@@ -27,8 +27,8 @@
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/Steven-LG09/webApp">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Steven-LG09&repo=webApp&theme=chartreuse-dark" />
+      <a href="https://github.com/Steven-LG09/Runa">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Steven-LG09&repo=Runa&theme=chartreuse-dark" />
       </a>
     </td>
     <td>
@@ -105,6 +105,8 @@
 <img src="https://cdn.worldvectorlogo.com/logos/netlify.svg" width="150" height="150"/>
 <img src="https://avatars.githubusercontent.com/u/62234664?s=200&v=4" width="150" height="150"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="150" height="150"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="150" height="150"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="150" height="150"/>
 
 </div><br>
 
