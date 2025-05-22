@@ -51,8 +51,8 @@
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/Steven-LG09/Portfolio">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Steven-LG09&repo=Portfolio&theme=chartreuse-dark" />
+      <a href="https://github.com/Steven-LG09/Indi">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Steven-LG09&repo=Indi&theme=chartreuse-dark" />
       </a>
     </td>
     <td>
@@ -107,6 +107,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="150" height="150"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="150" height="150"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="150" height="150"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="150" height="150"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="150" height="150"/>
 
 </div><br>
 
