@@ -111,7 +111,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="150" height="150"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="150" height="150"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="150" height="150"/>
-<img src="https://www.koyeb.com/static/logo-dark.svg" width="150" height="150"/>
+<img src="https://www.koyeb.com/static/logo-light.svg" width="150" height="150"/>
 
 </div><br>
 
