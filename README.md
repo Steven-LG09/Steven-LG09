@@ -39,8 +39,8 @@
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/Steven-LG09/Sound-System">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Steven-LG09&repo=Sound-System&theme=merko" />
+      <a href="https://github.com/Steven-LG09/Eva">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Steven-LG09&repo=Eva&theme=merko" />
       </a>
     </td>
     <td>
