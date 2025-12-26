@@ -1,67 +1,20 @@
 ### 🚀 Featured Projects
 
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/Steven-LG09/Vimo">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Steven-LG09&repo=Vimo&theme=chartreuse-dark" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/Steven-LG09/Megaruta">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Steven-LG09&repo=MegaRuta&theme=merko" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/Steven-LG09/Api2">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Steven-LG09&repo=Api2&theme=merko" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/Steven-LG09/soku">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Steven-LG09&repo=soku&theme=chartreuse-dark" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/Steven-LG09/Runa">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Steven-LG09&repo=Runa&theme=chartreuse-dark" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/Steven-LG09/Dados">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Steven-LG09&repo=DaDos&theme=merko" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/Steven-LG09/Eva">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Steven-LG09&repo=Eva&theme=merko" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/Steven-LG09/Tolly">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Steven-LG09&repo=Tolly&theme=chartreuse-dark" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/Steven-LG09/Indi">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Steven-LG09&repo=Indi&theme=chartreuse-dark" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/Steven-LG09/Proximity-Glasses">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Steven-LG09&repo=Proximity-Glasses&theme=merko" />
-      </a>
-    </td>
-  </tr>
-</table>
+[![Vimo](https://github-readme-stats.vercel.app/api/pin/?username=Steven-LG09&repo=Vimo&theme=chartreuse-dark)](https://github.com/Steven-LG09/Vimo)
+[![MegaRuta](https://github-readme-stats.vercel.app/api/pin/?username=Steven-LG09&repo=MegaRuta&theme=merko)](https://github.com/Steven-LG09/Megaruta)
+
+[![Api2](https://github-readme-stats.vercel.app/api/pin/?username=Steven-LG09&repo=Api2&theme=merko)](https://github.com/Steven-LG09/Api2)
+[![Soku](https://github-readme-stats.vercel.app/api/pin/?username=Steven-LG09&repo=soku&theme=chartreuse-dark)](https://github.com/Steven-LG09/soku)
+
+[![Runa](https://github-readme-stats.vercel.app/api/pin/?username=Steven-LG09&repo=Runa&theme=chartreuse-dark)](https://github.com/Steven-LG09/Runa)
+[![DaDos](https://github-readme-stats.vercel.app/api/pin/?username=Steven-LG09&repo=DaDos&theme=merko)](https://github.com/Steven-LG09/Dados)
+
+[![Eva](https://github-readme-stats.vercel.app/api/pin/?username=Steven-LG09&repo=Eva&theme=merko)](https://github.com/Steven-LG09/Eva)
+[![Tolly](https://github-readme-stats.vercel.app/api/pin/?username=Steven-LG09&repo=Tolly&theme=chartreuse-dark)](https://github.com/Steven-LG09/Tolly)
+
+[![Indi](https://github-readme-stats.vercel.app/api/pin/?username=Steven-LG09&repo=Indi&theme=chartreuse-dark)](https://github.com/Steven-LG09/Indi)
+[![Proximity-Glasses](https://github-readme-stats.vercel.app/api/pin/?username=Steven-LG09&repo=Proximity-Glasses&theme=merko)](https://github.com/Steven-LG09/Proximity-Glasses)
+
 
 ### 📊 GitHub Stats 9
 
